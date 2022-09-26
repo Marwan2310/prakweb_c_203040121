@@ -38,7 +38,7 @@ if (isset($_POST['cari'])) {
 
 <body>
 
-  <h3 align="center">DAFTAR BUKU</h3>
+  <h3 align="center">DAFTAR KOLEKSI BUKU BUKU</h3>
 
   <div class="container">
     <form action="" method="POST">
