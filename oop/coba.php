@@ -5,13 +5,12 @@ class Coba
 {
 }
 
-$a = new COba();
-$b = new COba();
-$c = new COba();
-$d = new COba();
+$a = new Coba();
+$b = new Coba();
+$c = new Coba();
+
 
 
 var_dump($a);
 var_dump($b);
 var_dump($c);
-var_dump($d);
