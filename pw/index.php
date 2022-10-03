@@ -39,7 +39,7 @@ if (isset($_POST['cari'])) {
 
 <body>
 
-  <h3 align="center">DAFTAR KOLEKSI BUKU BUKU</h3>
+  <h3>DAFTAR KOLEKSI BUKU BUKU</h3>
 
   <div class="container">
     <form action="" method="POST">
@@ -63,8 +63,8 @@ if (isset($_POST['cari'])) {
 
 
 
-  <div class="container1">
-    <table border="1" cellpadding="10" cellspacing="0" class="table table-hover">
+  <div class="container">
+    <table border="10" cellpadding="10" cellspacing="0" class="table table-transparent table-hover">
 
       <tr>
         <th>No</th>
