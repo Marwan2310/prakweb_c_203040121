@@ -1,6 +1,8 @@
 <?php
 
 //jualan Produk
+//Komik
+//Game
 
 
 class Produk
@@ -8,4 +10,5 @@ class Produk
 }
 
 $produk1 = new Produk();
-$produk2 = new Produk();
+
+var_dump($produk1);
