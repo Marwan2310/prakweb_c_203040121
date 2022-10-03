@@ -114,6 +114,16 @@ if (isset($_POST['cari'])) {
   <script>
     feather.replace()
   </script>
+
+  <footer class="bg-light text-center text-white">
+    <!-- Copyright -->
+    <div class="text-dark text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+      © 2022 Copyright:
+      <a class="text-dark" href="https://github.com/Marwan2310/">Marwan2310</a>
+    </div>
+    <!-- Copyright -->
+  </footer>
+
 </body>
 
 </html>
