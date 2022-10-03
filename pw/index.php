@@ -37,11 +37,11 @@ if (isset($_POST['cari'])) {
   <title>Daftar Koleksi Buku</title>
 </head>
 
-<body>
+<body class="p-3 mb-2 bg-warning">
 
   <h3>DAFTAR KOLEKSI BUKU BUKU</h3>
 
-  <div class="container">
+  <div class=" container">
     <form action="" method="POST">
       <div class="row mb-4">
         <div class="col">
